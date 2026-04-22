@@ -1,4 +1,4 @@
-# Hi there, I'm Khant! 👋
+# Hi there, I'm Khant Kyaw Lin! 👋
 
 ### Full-Stack Developer | Building simple, useful software that makes life easier.
 
